@@ -1,0 +1,12 @@
+{
+  "prefix":"!",
+  "googleKey":"AIzaSyDyqcW4cTuAyw5eTULFQsJ2lnrZxgPBJhE",
+  "servidores" : {
+  "serve":{
+    "con": null,
+    "dispatcher": null,
+    "fila":[],
+    "estouTocando": false
+  }
+ } 
+}
